@@ -48,7 +48,7 @@ Dataset access:
 ![image (11)](https://github.com/user-attachments/assets/364f961f-ebbb-47cb-b6b6-e0ced6d096a2)
 
 
-#### Output total inventory quantity by product ID (dim_inventory_by_product table)
+#### Output total inventory quantity by product ID 
 ![image (12)](https://github.com/user-attachments/assets/232220c0-e78b-4570-aa70-7dac7af6c083)
 
 
